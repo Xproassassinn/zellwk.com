@@ -4,6 +4,8 @@ This is a repo for zellwk.com. I open-sourced this repo because I wanted to shar
 **Please note:** I may write [dirty code](https://zellwk.com/blog/its-okay-to-write-dirty-code/) in this repo.
 Do not copy everything blindly!
 
+[![Run on Repl.it](https://repl.it/badge/github/Xproassassinn/zellwk.com)](https://repl.it/github/Xproassassinn/zellwk.com)
+
 ## Installation
 
 1. Clone this Git repository: `git clone https://github.com/zellwk/zellwk.com.git`
